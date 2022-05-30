@@ -1,5 +1,5 @@
   <div align="center">
-      <img weight="940px" src="https://user-images.githubusercontent.com/99488346/170994141-8258c806-e58e-4e0b-8b90-dede0d58f4ab.jpg">
+      <img weight="100%" src="https://user-images.githubusercontent.com/99488346/170994141-8258c806-e58e-4e0b-8b90-dede0d58f4ab.jpg">
   </div>
   <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannaaaa&layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border=1"/>

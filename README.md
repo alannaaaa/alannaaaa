@@ -1,8 +1,4 @@
-
-
   <div align="center">
-      <img weight="6912px" height="3456px" src="https://user-images.githubusercontent.com/99488346/171000171-8e4d7ca7-59c0-49e6-9bbe-e8d192b429d1.jpg
-">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannaaaa&layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border=1"/>
   </div>
   

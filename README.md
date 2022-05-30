@@ -1,5 +1,5 @@
   <div align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannaaaa&layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannaaaa&layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border=1"/>
   </div>
   
   ![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-contribution-grid-snake.svg)

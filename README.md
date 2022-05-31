@@ -1,7 +1,9 @@
-  <div align="center">
+ #👋 Olá, seja bem-vindo(a)! o((>ω< ))o
+ 
+ <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannaaaa&layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border=1"/>
   </div>
-  
+ #Contributions
   ![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-contribution-grid-snake.svg)
 
 <!--

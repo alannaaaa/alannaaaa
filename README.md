@@ -1,4 +1,4 @@
- # 👋 Olá, seja bem-vindo(a)! o((>ω< ))o
+ # 👋 Olá! o((>ω< ))o
  
  <div align="center">
       <br>

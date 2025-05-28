@@ -6,8 +6,17 @@
   </div>
   
  ### Contributions:
- 
-  ![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Snake padrão (modo claro) -->
+![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-snake.svg#gh-light-mode-only)
+
+<!-- Snake com modo escuro -->
+![Snake animation dark](https://github.com/alannaaaa/alannaaaa/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+<!-- Versão alternativa: Ocean GIF com cores personalizadas -->
+![Snake ocean](https://github.com/alannaaaa/alannaaaa/blob/output/ocean.gif)
+
+  <!--![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--
 **alannaaaa/alannaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

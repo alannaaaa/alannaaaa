@@ -13,9 +13,6 @@
 <!-- Snake com modo escuro -->
 ![Snake animation dark](https://github.com/alannaaaa/alannaaaa/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-<!-- Versão alternativa: Ocean GIF com cores personalizadas -->
-![Snake ocean](https://github.com/alannaaaa/alannaaaa/blob/output/ocean.gif)
-
   <!--![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--

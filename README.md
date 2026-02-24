@@ -1,11 +1,13 @@
- # 👋 Olá! o((>ω< ))o
+ # 👋 Olá!
  
  <div align="center">
       <br>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannaaaa&layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border=1"/> <br>
+      <img height="400em"
+     src="https://github-readme-stats-steel-one-74.vercel.app/api/top-langs/?username=alannaaaa&layout=pie&langs_count=7&bg_color=0d1117&title_color=fff&text_color=fff&hide_border=1&locale=pt-br"/> <br>
+<!-- &layout=compact&langs_count=7&bg_color=DEG,DA4453,89216B&title_color=fff&text_color=fff&hide_border=1 -->
   </div>
   
- ### Contributions:
+ ### ⭐ Contribuições:
 
 <!-- Snake padrão (modo claro) -->
 ![Snake animation](https://github.com/alannaaaa/alannaaaa/blob/output/github-snake.svg#gh-light-mode-only)
